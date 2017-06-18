@@ -1,1 +1,3 @@
 def run()
+
+def foo()
